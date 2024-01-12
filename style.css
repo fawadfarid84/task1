@@ -1,0 +1,24 @@
+*{
+    color: white;
+    font-family: sans-serif;
+}
+h1{
+    padding: 10px;
+    text-align: center;
+    font-size: 39px;
+}
+
+div{
+    background-color: rgb(4, 19, 134);
+}
+.aa{
+    text-align: center;
+    word-spacing: 100px;
+    background-color: rgb(7, 36, 255);
+}
+
+ul>li{
+    display: inline-block;
+    font-size: 39px;
+    padding: 8px;
+}
